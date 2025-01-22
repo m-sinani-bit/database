@@ -1,0 +1,35 @@
+Category,Name,Definition
+Name,Client Doesn't Know or Prefers Not to Answer,Quality of Name is set as client doesn't know or client prefers not to answer
+Name,Information Missing,Quality of Name is set as data not collected
+Name,Data Issue,"Quality of Name is set as partial, street name, or code name reported"
+Social Security Number,Client Doesn't Know or Prefers Not to Answer,Quality of SSN  is set as client doesn't know or client prefers not to answer
+Social Security Number,Information Missing,Quality of SSN is set as data not collected
+Social Security Number,Data Issue,Social Security Number entered violates rules for a valid SSN or Quality of SSN is set as approximate  or partial SSN has been reported
+Date of Birth,Client Doesn't Know or Prefers Not to Answer,Quality of DOB is set as client doesn't know or client prefers not to answer
+Date of Birth,Information Missing,Quality of DOB is set as data not collected
+Date of Birth,Data Issue,"Date of Birth is prior to 01/01/1915, date of birth is after entry date, or Quality of DOB is set as approximate or partial DOB reported"
+"Race, Ethnicity, & Gender",Client Doesn't Know or Prefers Not to Answer,"Race, ethnicity, or gender status is set as client doesn't know or client prefers not to answer"
+"Race, Ethnicity, & Gender",Information Missing,"Race, ethnicity, or gender status is set as data not collected"
+Veteran Status,Client Doesn't Know or Prefers Not to Answer,Veteran Status is set as client doesn't know or client prefers not to answer for adult clients
+Veteran Status,Information Missing,Veteran Status is set as data not collected for adult clients
+Project Start Date,Data Issue,Project entry date is prior to 01/01/1915
+Relationship to Head of Household,Information Missing,Relationship to head of household is blank
+Relationship to Head of Household,Data Issue,"No head of household is indicated for a household, more than one client is listed as head of household in a single household"
+Enrollment CoC,Information Missing,Continuum of care code for head of household is blank
+Enrollment CoC,Data Issue,"Continuum of care code for head of household is not blank, but does not match a valid HUD-defined continuum of care code"
+Disabling Condition,Client Doesn't Know or Prefers Not to Answer,Disabling condition status is set as client doesn't know or client prefers not to answer
+Disabling Condition,Information Missing,Disabling condition status is set as data not collected
+Disabling Condition,Data Issue,"Disabling condition is set as 'no', but one or more disability types are selected as 'yes' OR disabling condition is set as 'yes', but one or more disability types are selected as 'no'"
+Destination,Client Doesn't Know or Prefers Not to Answer,Client's exit destination is set as client does not know or client prefers not to answer
+Destination,Information Missing,"Client's exit destination is set as data not collected, or no exit interview completed"
+Income and Sources at Start,Client Doesn't Know or Prefers Not to Answer,"At time of entry, income from any source is set as client doesn't know or client prefers not to answer"
+Income and Sources at Start,Information Missing,"At time of entry, income from any source is set as data not collected, record states presence of income but missing income source, or there is not income information collected with an information date equal to the entry date"
+Income and Sources at Start,Data Issue,"At time of entry, record states having income despite no identified sources "
+Income and Sources at Annual Assessment,Client Doesn't Know or Prefers Not to Answer,"At time of annual assessment, income from any source is set as client doesn't know or client prefers not to answer"
+Income and Sources at Annual Assessment,Information Missing,"At time of annual assessment, income from any source is set as data not collected, record states presence of income but missing income source, or there is no income information collected within 30 days of the annual date of entry"
+Income and Sources at Annual Assessment,Data Issue,"At time of annual assessment, record states having income despite no identified sources "
+Income and Sources at Exit,Client Doesn't Know or Prefers Not to Answer,"At time of exit, income from any source is set as client doesn't know or client prefers not to answer"
+Income and Sources at Exit,Information Missing,"At time of exit, income from any source is set as data not collected, record states presence of income but missing income source, or there is not income information collected with the information date equal to the exit date"
+Income and Sources at Exit,Data Issue,"At time of exit, record states having income despite no identified sources"
+Record Creation - Project Start,Timeliness,The percentage of records created within X days of a particpants entry date
+Record Creation- Project Exit,Timeliness,The percentage of records created within X days of a particpants exit date
