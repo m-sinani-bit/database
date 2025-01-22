@@ -1,0 +1,20 @@
+Category,Name,Definition
+Persons Served,Active Participants,Count of participants active anytime within the reporting period.
+Persons Served,New Participants,Count of participants whose enrollment start date was anytime within the reporting period.
+Permanent Housing Placements,Total Permanent Housing Placements,Overall count of individuals placed in permanent housing. The sum of direct housing placements and exits to permanent destinations.
+Permanent Housing Placements,Direct Housing Placements,Count of participants with a move-in date within the reporting period.
+Permanent Housing Placements,Exits to Permanent Destinations,Percentage of participants who exited a program during the reporting period where the destination was defined as permanent by the U.S. Department of Housing and Urban Development (HUD). A complete list of exit destinations and their categories is available in Appendix A of HUD's FY 2024 System Performance Measures Programming Specifications.
+Exit Destinations,% of Exits to Positive Destinations,Percentage of participants who exited a program during the reporting period where the destination was defined as positive by HUD. 
+Exit Destinations,% of Exits to Homelessness,"For Outreach and Interim Housing Services programs, the percentage of participants who exited a program during the reporting period where the destination was a ""place not meant for habitation."" For other program types, this also includes exits to ""Emergency shelter, including hotel or motel paid for with emergency shelter voucher, Host Home shelter"" and ""Safe Haven""."
+Timeliness,Days to Move-In,"For participants with a move-in date within the reporting period, the number of days from program enrollment to move-in."
+Timeliness,Days to Permanent Destination,Percentage of participants who have began an interactive relationship that resulted in a deliberate client assessment or beginning of a case plan.
+Timeliness,% Housed within X days,"For participants with a move-in date within the reporting period, the percentage housed with X  days of enrollment."
+Timeliness,% Served within X Days of Enrollment,Percentage of active participants that received a service within X calendar days of program enrollment. Excludes participants that were never served. Service data from HMIS only.
+Income,Any Income Increase,Count or percentage of participants with an increase in any income from program enrollment to the most recent data collection phase prior to the end of the reporting period.
+Income,Earned Income Increase,Count or percentage of participants with an increase in earned income from program enrollment to the most recent data collection phase prior to the end of the reporting period.
+Income,Benefit and Other Income Increase,Count or percentage of participants with an increase in non-earned income from program enrollment to the most recent data collection phase prior to the end of the reporting period.
+Data Quality,Personal Identifiable Information,"Percentage of participants without missing or incomplete data in name, social security number, date of birth, race and ethnicity, and gender fields.  "
+Data Quality,Universal Data Elements,"Percentage of participants without missing or incomplete data in veteran status, project start date, relationship to head of household, and disabling condition fields.  "
+Program Type Specific Terms,% Engaged,Percentage of outreach participants who have began an interactive relationship that resulted in a deliberate client assessment or beginning of a case plan.
+Program Type Specific Terms,Utilization Rate,"The average number of participants/households served by a interim housing site divided by the average number of beds/units available each night, as reported to HMIS. The utilization rate gives an idea of how full the interim site is on a given night."
+Program Type Specific Terms,Length of Stay,"For participants active in an interim housing services program at anytime in the reporting period, the number of days between progam entry and program exit, if participant is inactive, or the last day of the reporting period, if pariticipant is active."
